@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "speakermod",
+  "version": "${version}",
+  "name": "Speaker Mod",
+  "description": "Benenne einen Dispenser am Amboss in 'Speaker' um, dann wird er beim Platzieren zum dunklen Club-Lautsprecher.",
+  "authors": ["Speaker Mod"],
+  "environment": "*",
+  "entrypoints": {
+    "main": ["de.example.speakermod.SpeakerMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

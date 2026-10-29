@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "speakermod:block/club_speaker_side",
+    "down": "speakermod:block/club_speaker_top",
+    "up": "speakermod:block/club_speaker_top",
+    "north": "speakermod:block/club_speaker_front",
+    "east": "speakermod:block/club_speaker_side",
+    "south": "speakermod:block/club_speaker_back",
+    "west": "speakermod:block/club_speaker_side"
+  }
+}
